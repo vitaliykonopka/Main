@@ -4,5 +4,6 @@ public class Main {
         //git status
         //git add
         //git commit -m "init"
+        //git pull origin master
     }
 }
